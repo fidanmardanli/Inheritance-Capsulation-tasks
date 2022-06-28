@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\bin\Debug\net6.0\Gmail and Pascode task.exe
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\bin\Debug\net6.0\Gmail and Pascode task.deps.json
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\bin\Debug\net6.0\Gmail and Pascode task.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\bin\Debug\net6.0\Gmail and Pascode task.dll
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\bin\Debug\net6.0\Gmail and Pascode task.pdb
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.dll
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\refint\Gmail and Pascode task.dll
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.pdb
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\Gmail and Pascode task.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Inheritance, Encapsulation tasks\Gmail, Pasword\Gmail and Pascode task\Gmail and Pascode task\obj\Debug\net6.0\ref\Gmail and Pascode task.dll
